@@ -19,21 +19,13 @@ Proud EndeavourOS user—because life's too short for vendor lock-in and too lon
 
 ```bash
 const languages = ['JavaScript', 'TypeScript', 'Python', 'Rust', 'Go', 'C++', 'Java'];
+
 const frameworks = ['React', 'Next.js', 'Vue', 'FastAPI', 'Express', 'Django'];
 
-# Tools that keep me sane
 const tools = ['Docker', 'Git', 'Linux', 'PostgreSQL', 'MongoDB', 'Redis'];
 
-# Cloud platforms where my code lives
 const cloud = ['AWS', 'GCP', 'Azure', 'DigitalOcean'];
 ```
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazardNode&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazardNode&layout=compact&theme=dark&hide_border=true)
-
 
 ## 📫 Let's Connect
 
